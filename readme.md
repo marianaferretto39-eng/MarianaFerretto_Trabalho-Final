@@ -1,3 +1,9 @@
-# Título
+# Perseguição de Cristãos — Visualização Interativa
+O projeto surgiu da minha sensibilização recente para a perseguição de cristãos a nível mundial. Pretendi transformar estatísticas numa visualização interativa, utilizando um globo onde pontos brancos representam simbolicamente a população cristã e pontos vermelhos os indicadores de perseguição.
+Partindo dos conhecimentos adquiridos nas aulas, utilizei inteligência artificial como ferramenta de aprendizagem para compreender e desenvolver funcionalidades mais complexas.
+Explorei radians(), sin(), cos() e atan2() para calcular coordenadas geográficas e rotações; dist() para detetar a posição do rato; e lerp() para suavizar movimentos.
+Para representar os dados, utilizei randomGaussian() e randomSeed() na distribuição dos pontos, métodos como map(), forEach() e reduce() na organização dos dados, e fetch(), async/await e try/catch para carregar informações externas, recorri a IA para os calculos também.
+Aprendi também a criar funções próprias, como projetar(), criarVermelhos() e globo(), organizando o código por responsabilidades.
+Apesar da extensão do código, principalmente devido aos textos, coordenadas e cálculos matemáticos, procurei simplificá-lo sem comprometer o conceito. Estudei cuidadosamente as novas funções e acrescentei comentários explicativos para compreender a sua lógica.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod convallis magna ut pulvinar. Nulla iaculis, metus in semper vestibulum, lorem quam fringilla tellus, eu varius leo dui ac neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed faucibus ultrices ante, ut suscipit est euismod ut. Duis sit amet dictum turpis. Fusce non turpis porta nisi iaculis eleifend. Donec eget lobortis risus. Proin molestie tincidunt elit. Donec a enim ac neque tristique molestie. Sed nibh massa, dignissim at ipsum non, volutpat aliquam erat. Sed tincidunt quis urna a semper. Phasellus leo orci, imperdiet et ullamcorper non, finibus eu nunc. Duis vel ligula ac orci tincidunt aliquam. Suspendisse potenti. Sed congue lectus at aliquet cursus. 
+**Fonte:** World Watch List 2026 — Portas Abertas. Distribuição geográfica ilustrativa.
